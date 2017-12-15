@@ -1,2 +1,1 @@
-# jQuery
-jQuery类demo归集
+# 目录
